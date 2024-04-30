@@ -16,7 +16,13 @@ I am a project manager that does freelance website development on the side<br>I 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=3jeerota001101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+## 💻 Featured YouTube Videos
+[![Frontend vs Backend](https://img.youtube.com/vi/RsKJ0fF-xhc/0.jpg)](https://www.youtube.com/watch?v=RsKJ0fF-xhc)
+[![Fix It](https://img.youtube.com/vi/Kf6xtbEcY78/0.jpg)](https://www.youtube.com/watch?v=Kf6xtbEcY78)
+[![5 programming languages](https://img.youtube.com/vi/6PBspEkBlPU/0.jpg)](https://www.youtube.com/watch?v=6PBspEkBlPU)
+[![learn to code](https://img.youtube.com/vi/pKFcVs2HibA/0.jpg)](https://www.youtube.com/watch?v=pKFcVs2HibA)
+[![5 books](https://img.youtube.com/vi/mW9uzLaERpo/0.jpg)](https://www.youtube.com/watch?v=mW9uzLaERpo)
+[![automate python](https://img.youtube.com/vi/1dgnl7oCVTY/0.jpg)](https://www.youtube.com/watch?v=1dgnl7oCVTY)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
